@@ -6,6 +6,6 @@ function calculate(x,y,calback){
     }, 3000);
 }
 function display(result){
-    console.log('Result:',result)
+    console.log(`Result: ${result}`)
 }
 calculate(100,50,display)
