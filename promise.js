@@ -14,6 +14,7 @@ function downloading(url) {
         },2000);
     })
 }
+// promise Hell
 // downloading(url1).then(result=>{
 //     console.log(result);
 // }).catch(error=>{
@@ -22,6 +23,7 @@ function downloading(url) {
 //     console.log("Good bye 😁!!!");
 // })
 
+// promise Then
 // downloading(url1).then(function(result){
 //     console.log(result);
 //     downloading(url2).then(function(result){
